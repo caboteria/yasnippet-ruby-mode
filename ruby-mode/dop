@@ -1,0 +1,7 @@
+#name : do |variable| ... end
+#group : Blocks
+# key: dop
+# --
+do |${1:variable}|
+  $0
+end
