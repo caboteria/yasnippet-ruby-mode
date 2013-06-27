@@ -2,4 +2,4 @@
 #group : Blocks
 # key: {
 # --
-{ |${1:variable}| $0 `(unless electric-pair-mode "}")`
+{ |${1:variable}| $2 `(unless electric-pair-mode "}")`$0
