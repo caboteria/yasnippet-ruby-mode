@@ -1,3 +1,6 @@
+# name: rdoc block
+# key: =b
+# --
 =begin rdoc
   $0
 =end
