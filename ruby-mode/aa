@@ -1,4 +1,5 @@
 #name : attr_accesor :...
 # key: aa
+# group: Miscellaneous
 # --
 attr_accessor :$0

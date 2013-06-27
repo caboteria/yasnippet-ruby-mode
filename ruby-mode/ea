@@ -1,4 +1,5 @@
 #name : each { |...| ... }
 # key: ea
+# group: Miscellaneous
 # --
 each { |${e}| $0 }

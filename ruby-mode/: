@@ -1,4 +1,5 @@
 #name : :key => "value"
 # key: :
+# group: Miscellaneous
 # --
 :${key} => ${"value"}

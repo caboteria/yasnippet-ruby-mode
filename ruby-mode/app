@@ -1,5 +1,6 @@
 #name : if __FILE__ == $PROGRAM_NAME ... end
 # key: app
+# group: Miscellaneous
 # --
 if __FILE__ == $PROGRAM_NAME
   $0

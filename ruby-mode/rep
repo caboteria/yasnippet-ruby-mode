@@ -1,4 +1,5 @@
 #name : results_report(..) { .. }
 # key: rep
+# group: Miscellaneous
 # --
 results.report("${1:name}:") { TESTS.times { $0 } }

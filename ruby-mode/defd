@@ -1,4 +1,5 @@
 # This was cloned from a TextMate bundle for yasnippet.
 # key: defd
+# group: Miscellaneous
 # --
 def_delegator :${1:@del_obj}, :${2:del_meth}, :${3:new_name}

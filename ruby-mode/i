@@ -1,5 +1,6 @@
 #name : def initialize(...) ... end
 # key: i
+# group: Miscellaneous
 # --
 def initialize(${1:params})
   ${2:body}

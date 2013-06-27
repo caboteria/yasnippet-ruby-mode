@@ -1,5 +1,6 @@
 #name : Benchmark.bmbm(...) do ... end
 # key: bm
+# group: Miscellaneous
 # --
 Benchmark.bmbm(${1:10}) do |x|
   $0

@@ -1,4 +1,5 @@
 #name : /usr/bin/env ruby
 # key: !env
+# group: Miscellaneous
 # --
 #!/usr/bin/env ruby

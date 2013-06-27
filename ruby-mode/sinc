@@ -1,4 +1,5 @@
 #name : singleton_class()
 # key: sinc
+# group: Miscellaneous
 # --
 class << self; self end

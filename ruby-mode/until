@@ -1,5 +1,6 @@
 #name : until ... end
 # key: until
+# group: Miscellaneous
 # --
 until ${1:condition}
   $0

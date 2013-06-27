@@ -1,5 +1,6 @@
 # This was cloned from a TextMate bundle for yasnippet.
 # key: defmm
+# group: Miscellaneous
 # --
 def method_missing(meth, *args, &blk)
   $0

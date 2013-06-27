@@ -1,5 +1,6 @@
 #name : module ModuleName ... end
 # key: module
+# group: Miscellaneous
 # --
 module ${ModuleName}
   $0

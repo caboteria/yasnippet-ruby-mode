@@ -1,4 +1,5 @@
 #name : require File.join(File.dirname(__FILE__), ...)
 # key: rreq
+# group: Miscellaneous
 # --
 require File.join(File.dirname(__FILE__), $0)

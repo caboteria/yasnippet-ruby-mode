@@ -1,4 +1,5 @@
 #name : step(2) { |e| .. }
 # key: ste
+# group: Miscellaneous
 # --
 step(${1:2}) { |${2:n}| $0 }

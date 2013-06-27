@@ -1,5 +1,6 @@
 #name : describe (rspec)
 # key: desc
+# group: Miscellaneous
 # --
 describe "${1:method}" do
   it$0

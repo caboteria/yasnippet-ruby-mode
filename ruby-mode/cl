@@ -1,4 +1,5 @@
 #name : classify { |...| ... }
 # key: cl
+# group: Miscellaneous
 # --
 classify { |${e}| $0 }

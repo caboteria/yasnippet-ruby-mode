@@ -1,4 +1,5 @@
 #name : attr_accessor ...
 # key: rw
+# group: Miscellaneous
 # --
 attr_accessor :

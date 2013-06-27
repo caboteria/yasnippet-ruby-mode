@@ -1,4 +1,5 @@
 #name : sub(/../) { |match| .. }
 # key: sub
+# group: Miscellaneous
 # --
 sub(/${pattern}/) { |${match}| $0 }

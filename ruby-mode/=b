@@ -1,5 +1,6 @@
 # name: rdoc block
 # key: =b
+# group: Miscellaneous
 # --
 =begin rdoc
   $0

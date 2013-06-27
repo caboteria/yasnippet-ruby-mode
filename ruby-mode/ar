@@ -1,4 +1,5 @@
 #name : attr_reader :...
 # key: ar
+# group: Miscellaneous
 # --
 attr_reader :$0

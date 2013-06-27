@@ -1,5 +1,6 @@
 # This was cloned from a TextMate bundle for yasnippet.
 # key: ts
+# group: Miscellaneous
 # --
 require "test/unit"
 

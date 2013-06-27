@@ -1,5 +1,6 @@
 #name : task :name ... end
 # key: task
+# group: Miscellaneous
 # --
 task :${2:name} do
   $0
